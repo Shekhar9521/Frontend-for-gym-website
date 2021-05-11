@@ -1,2 +1,2 @@
 # Frontend-for-gym-website
-A front end of a website for Gym and fitness
+A Basic Frontend of a Gym Fitness Website Using simple HTML and Tailwind CSS
